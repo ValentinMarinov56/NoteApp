@@ -152,4 +152,4 @@ Environment variables are managed in `utils/config.js`.
 
 ## 📄 License
 
-MIT
+This project is available under the MIT License. See LICENSE file for details.
